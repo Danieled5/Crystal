@@ -1,0 +1,4 @@
+repository "Crystal@EdDainer@cloud"
+  path "/"
+    br "/main"
+    co "/main"
